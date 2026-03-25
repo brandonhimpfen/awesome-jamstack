@@ -77,7 +77,7 @@ JAMstack (JavaScript, APIs, and Markup) is a modern web development architecture
 - [Clerk](https://clerk.dev/)
 - [Firebase Auth](https://firebase.google.com/products/auth)
 - [Magic.link](https://magic.link/) – Passwordless auth.
-- [Netlify Identity](https://docs.netlify.com/visitor-access/identity/overview/)
+- [Supabase Auth](https://github.com/supabase/auth)
 
 ## E-Commerce
 
