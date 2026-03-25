@@ -69,15 +69,13 @@ JAMstack (JavaScript, APIs, and Markup) is a modern web development architecture
 - [Fauna](https://fauna.com/)
 - [Appwrite](https://appwrite.io/)
 
----
-
 ## Authentication
 
 - [Auth0](https://auth0.com/)
 - [Clerk](https://clerk.dev/)
 - [Firebase Auth](https://firebase.google.com/products/auth)
 - [Magic.link](https://magic.link/) – Passwordless auth.
-- [Supabase Auth](https://github.com/supabase/auth)
+- [Supabase Auth](https://github.com/supabase/auth) - Open source authentication and user management service with JWT-based auth and integrations for modern web apps.
 
 ## E-Commerce
 
