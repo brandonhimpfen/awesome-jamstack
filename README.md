@@ -50,7 +50,7 @@ JAMstack (JavaScript, APIs, and Markup) is a modern web development architecture
 - [Strapi](https://strapi.io/)
 - [DatoCMS](https://www.datocms.com/)
 - [Ghost CMS](https://ghost.org/) – Can be used as headless.
-- [Decap CMS](https://decapcms.org/) (formerly Netlify CMS) – Git-based CMS for static sites.
+- [Decap CMS](https://decapcms.org/) – Git-based CMS for static sites.
 
 ## Hosting & Deployment
 
